@@ -1,0 +1,8 @@
+prefix=/home/skywoodsz/sensor_test/sensor_ws/install
+
+Name: laser_map
+Description: Description of laser_map
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/skywoodsz/sensor_test/sensor_ws/install/lib 
+Requires: 
